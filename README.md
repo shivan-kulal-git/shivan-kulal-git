@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 - **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=css3&logoColor=white)
 - **Mobile Development:** ![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat-square&logo=react&logoColor=white)
 
-
+<!--
 ### 🤖 Machine Learning
 - **Libraries & Frameworks:**  ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=flat-square&logo=python&logoColor=white)
 
 ### 🧑‍💻 Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white)
-
+-->
 ---
 
 ## 📫 How to reach me
