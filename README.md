@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://your-custom-link.com) -->
+[![MasterHead](./Shivan_Banner.png)](https://your-custom-link.com)
 
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">A Passionate Coder from India, Creating for Fun and Innovation</h3>
