@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-[![MasterHead](./Shivan_Banner.png)](https://your-custom-link.com)
+[![MasterHead](./Shivan_Banner.png)]([http://www.linkedin.com/in/shivan-kulal])
 
 <h1 align="center">Hi 👋, I'm Shivan</h1>
 <h3 align="center">A Passionate Coder from India, Creating for Fun and Innovation</h3>
