@@ -56,7 +56,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: **[kshivan48@gmail.com](mailto:kshivan48@gmail.com)**  
+- 📧 Email: **[contact@shivankulal.com](mailto:contact@shivankulal.com)**  
 - 🌐 Website: **https://shivankulal.com**
 
 ---
