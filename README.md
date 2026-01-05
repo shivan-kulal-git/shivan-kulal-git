@@ -73,27 +73,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shivan-kulal-git&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivan-kulal-git&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivan-kulal-git&theme=dark" width="60%" align="center"/>
 
+<!-- Activity Graph -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivan-kulal-git&theme=github-dark" width="100%" /> -->
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=shivan-kulal-git&theme=dark&hide_border=true"
-    width="60%"
-  />
-</p>
 
 ---
 
